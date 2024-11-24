@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.youtube.com/channel/UCpdVahIBHY__loOR4TlrNiQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osvaldo_achar/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/big_harden)
-[![Osvaldo Achar's GitHub stats](https://github-readme-stats.vercel.app/api?username=osvaldofaachar&show_icons=true&theme=transparent)
+![Osvaldo Achar's GitHub stats](https://github-readme-stats.vercel.app/api?username=osvaldofaachar&show_icons=true&theme=transparent)
  ## Tecnologias que uso:
  <div style="display: inline_block"> <br>
  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
