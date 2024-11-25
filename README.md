@@ -31,5 +31,4 @@
  </div><br>
  <br>
 
- - Sou apaixonado por programação e amo aprender sobre tecnologia no geral !!! <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldofaachar&layout=compact)
+ - Sou apaixonado por programação e amo aprender sobre tecnologia no geral !!! 
