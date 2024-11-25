@@ -30,6 +30,6 @@
  <img style="padding-bottom: 5%;" align="center" alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
  </div><br>
  <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldofaachar&layout=compact) <br>
- - Sou apaixonado por programação e amo aprender sobre tecnologia no geral !!!
 
+ - Sou apaixonado por programação e amo aprender sobre tecnologia no geral !!! <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldofaachar&layout=compact)
